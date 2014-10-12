@@ -30,9 +30,9 @@ You should create one R script called run_analysis.R that does the following.
 
 ## What you find in this repository
 
-CodeBook.md: information about raw and tidy data set and elaboration made to transform them
-tidy_data_set.txt output of the code
-README.md: this file
-run_analysis.R: R script to transform raw data set in a tidy one
+* CodeBook.md: information about raw and tidy data set and elaboration made to transform them
+* tidy_data_set.txt output of the code
+* README.md: this file
+* run_analysis.R: R script to transform raw data set in a tidy one
 
 ## How to create the tidy data set
