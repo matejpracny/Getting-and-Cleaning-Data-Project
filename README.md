@@ -35,4 +35,12 @@ You should create one R script called run_analysis.R that does the following.
 * run_analysis.R: R script to transform raw data set in a tidy one
 * tidy_data_set.txt: output of the code
 
-## How to create the tidy data set
+## How to reproduce creation of the tiny data set
+
+1.  Clone this repository
+2.  Download compressed raw data
+3.	Unzip raw data and copy the directory UCI HAR Dataset to the cloned repository root directory
+4.	Open a R console and set the working directory to the repository root
+5.	Source run_analisys.R script
+
+In the repository root directory you find the file tidy_data_set.txt with the tidy data set.
